@@ -3,4 +3,4 @@ We'll be exploring and analyzing a "Global Market" dataset with SQL, then visual
 
 
 
-I can 
+
